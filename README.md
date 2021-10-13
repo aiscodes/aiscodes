@@ -1,4 +1,4 @@
-![](/img.jpg)
+![](./javascript.png)
 
 
 
@@ -51,8 +51,8 @@
     </tr>
     <tr valign="top">
     <td width="20%" align="center">
-        <span><b>NPM</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
+        <span><b>Expo</b></span><br>
+        <img height="64px" src="https://static.expo.dev/static/brand/square-512x512.png">
       </td>
       <td width="20%" align="center">
         <span><b>VS code</b></span><br>
