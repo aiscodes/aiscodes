@@ -63,8 +63,7 @@
           <td width="14%" align="center">
         <span><b>Three.js</b></span><br>
         <img height="64px" src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png">
-      </td>
-   
+      </td> 
     </tr>
     
       
