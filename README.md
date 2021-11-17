@@ -15,15 +15,6 @@
 <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="bootstrap" height ="42px"/> </a>
 <a href="#" target="_blank"> <img align="left" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" height ="35px"/> </a>
-<a href="#" target="_blank"> <img align="left" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" alt="redux-saga" height ="25px"/> </a>
-
-### 📊 Github Stats
-<a href='https://github.com/temirova/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/temirova/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/temirova/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 
 
 
