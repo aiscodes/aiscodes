@@ -1,4 +1,4 @@
-![](./react.png)
+<!-- ![](./react.png)
 
 
 
@@ -68,4 +68,7 @@
     
       
   </tbody>
-</table>
+</table> -->
+
+
+<img align="right" alt="GIF" src="https://github.com/temirova/temirova/blob/master/assets/techstack.gif" width="360px"/>
