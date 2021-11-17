@@ -14,6 +14,8 @@
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="css" height='42px'/> </a>
 <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="bootstrap" height ="42px"/> </a>
+<a href="#" target="_blank"> <img align="left" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" height ="35px"/> </a>
+<a href="#" target="_blank"> <img align="left" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" alt="redux-saga" height ="30px"/> </a>
 
 
 <img align="right" alt="GIF" src="https://github.com/temirova/temirova/blob/master/assets/techstack.gif" width="360px"/>
