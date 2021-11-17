@@ -18,7 +18,7 @@
 <a href="#" target="_blank"> <img align="left" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" alt="redux-saga" height ="25px"/> </a>
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/temirova/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/temirova/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/temirova/github-stats-transparent/output/generated/languages.svg)
