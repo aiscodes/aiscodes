@@ -1,4 +1,4 @@
-**I'm a web engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, (JavaScript, APIs + Markup). **
+** I'm a web engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, (JavaScript, APIs + Markup). **
 
 
 
