@@ -1,4 +1,4 @@
-<h2>Hello, I'm Aigerim! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" style="width: 50px, padding-top:30px"> </h2>
+<h2>Hello, I'm Aigerim! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width ='45px' padding-top="10px"> </h2>
 <h3> I'm a web engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, (JavaScript, APIs + Markup). </h3>
 
 
