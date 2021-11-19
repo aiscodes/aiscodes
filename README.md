@@ -1,5 +1,4 @@
-<h2> Hello, everyone! <br>
-My name is Aigerim</h2>
+<h2>Hello, I'm Aigerim</h2>
 <h3> I'm a web engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, (JavaScript, APIs + Markup). </h3>
 
 
