@@ -1,4 +1,4 @@
-<h2>Hello, I'm Aigeri,</h2>
+<h2><i>Hello, I'm Aigerim,</i></h2>
 <h3>
 with experience working as a front-end and mobile developer. Also, i have experience working with agility metologies such a Scrum and Kanban. I am a person who is passionate about technology and loves to learn new things every day, I am characterized for being responsable, proactive and creative.</h3>
 <p align="center">
