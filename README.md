@@ -4,7 +4,8 @@ with experience working as a front-end and mobile developer. Also, i have experi
 <p align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width ='65px'> 
  <img src="https://img.icons8.com/color/452/redux.png" width ='65px'> 
- <img src="https://img.icons8.com/ios-filled/344/ios-logo.png" width ='65px'> 
- <img src="https://img.icons8.com/sf-regular-filled/344/android.png" width ='65px'> 
- <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png](https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/344/external-JS-files-tanah-basah-glyph-tanah-basah.png)" width ='65px'> 
+ <img src="https://img.icons8.com/bubbles/344/mac-os.png" width ='65px'> 
+ <img src="https://img.icons8.com/bubbles/344/android.png" width ='65px'> 
+ <img src="https://img.icons8.com/dusk/344/javascript.png" width ='65px'> 
+ <img src="https://img.icons8.com/fluency/344/typescript.png" width ='65px'> 
 </p>
