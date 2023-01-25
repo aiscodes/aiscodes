@@ -1,6 +1,7 @@
-<i><h3>Hello, I'm Aigerim,</h3>
+<center><h3>Hello,</h3></center>
 <h4>
-with experience working as a front-end and mobile developer. Also, i have experience working with Agile methodology such a Scrum and Kanban. I am a person who is passionate about technology and loves to learn new things every day, I am characterized for being responsable, proactive and creative.</h4></i>
+I am a front-end and mobile developer.
+I love building beautiful apps and crafting the best user experience. For me, an app isn't working correctly until it feels great to use.</h4>
 <p align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width ='65px'> 
  <img src="https://img.icons8.com/color/452/redux.png" width ='65px'> 
