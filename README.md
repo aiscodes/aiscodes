@@ -1,4 +1,4 @@
-<center><h3>Hello,</h3></center>
+<h3 style='text-align: center'>Hello,</h3>
 <h4>
 I am a front-end and mobile developer.
 I love building beautiful apps and crafting the best user experience. For me, an app isn't working correctly until it feels great to use.</h4>
