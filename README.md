@@ -1,8 +1,8 @@
 <div align="center">
  <h3>Hello,</h3>
 <h4>
-I am a front-end and mobile developer.
-I love building beautiful apps and crafting the best user experience. For me, an app isn't working correctly until it feels great to use.</h4>
+i am a frontend Developer with 6+ years of experience, specializing in React, React Native, and Vue.js. Expertise in Fintech and E-commerce products. Skilled in building scalable, high-performance web and mobile applications. Proficient in JavaScript, TypeScript, Redux, Next.js, Nuxt.js, Tailwind CSS, E2E tests, JQuery and Git. Focused on clean, efficient code and optimized user experience.
+</h4>
 </div>
 <div align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width ='65px'> 
