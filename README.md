@@ -15,8 +15,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aiscodes&show_icons=true&hide_border=true&theme=transparent&count_private=true&include_all_commits=true&hide_title=true" height="150" alt="stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiscodes&layout=compact&hide_border=true&theme=transparent&langs_count=8&hide=html,css,scss,dockerfile" height="150" alt="top languages">
+  <img src="https://img.shields.io/github/followers/aiscodes?style=for-the-badge&logo=github&color=181717&labelColor=0d1117" alt="followers">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0d1117&labelColor=0d1117&color=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117&color=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117&color=339933" alt="Node.js">
 </p>
 
 ---
