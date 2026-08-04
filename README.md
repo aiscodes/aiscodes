@@ -58,7 +58,7 @@ Most of my production work lives in private client repositories, so what is publ
 | **[loan-management-app](https://github.com/aiscodes/loan-management-app)** | Loan management CRUD service — Next.js 15, TypeScript, Prisma + PostgreSQL, Tailwind v4. Validation, status tracking, soft deletes. |
 | **[petPR-playwright-circleCI](https://github.com/aiscodes/petPR-playwright-circleCI)** | End-to-end test suite on Playwright, wired into CircleCI and GitHub Actions. |
 | **[Jest](https://github.com/aiscodes/Jest)** | React + MUI application used as a sandbox for unit and component testing with Jest and React Testing Library. |
-| **[n8n](https://github.com/aiscodes/n8n)** | Container setup for a self-hosted n8n instance — the base image behind my automation pipelines. |
+| **[n8n](https://github.com/aiscodes/n8n)** | Self-hosted n8n on Railway running my scheduled automation pipelines — a token scanner filtered by liquidity and holder metrics, a job-search bot, LLM enrichment, delivery to Telegram. |
 
 ### Stack
 
